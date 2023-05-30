@@ -12,7 +12,7 @@ Instituion Healthcare system - http://institutionhealthcare.infinityfreeapp.com/
 CompoNec - https://componec-958bd.web.app/ <br>
 CGPA Calculator - https://smashysubash.github.io/IWT/cgpacalculator/ <br>
 BMI Calculator - https://smashysubash.github.io/IWT/bmicalculator/ <br>
-Portfolio - https://smashysubash.github.io/IWT/bmicalculator/
+Portfolio - https://smashysubash.github.io/IWT/portfolio/
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=smashysubash&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=smashysubash&theme=dark&hide_border=true)<br/>
