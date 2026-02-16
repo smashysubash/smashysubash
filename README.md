@@ -4,7 +4,7 @@ Backend-focused Full Stack Engineer working on production SaaS systems, verifica
 
 I focus on building secure, scalable, and reliable backend infrastructure with strong emphasis on performance and system stability.
 
-> Most production work lives in private enterprise repositories.
+> Production-grade contributions are primarily maintained within my professional GitHub workspace and private enterprise repositories.
 
 ---
 
